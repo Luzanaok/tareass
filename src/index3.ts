@@ -1,6 +1,6 @@
 let btnEnv = document.getElementById("btnEnv");
 btnEnv.addEventListener("click", () => {
-//info
+  //info
 let nombre : boolean ="nombre"
 let claveU : boolean ="claveJuan"
 
